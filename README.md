@@ -152,3 +152,9 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Ganache-cli
 * Truffle
 
+## Contact Me!
+Author: Ethan Moore  
+Email: eldm2350@protonmail.com  
+Github: https://github.com/eldm-ethanmoore  
+LinkedIn: https://www.linkedin.com/in/ethan-moore-a7106121a/  
+Website: https://eldm.net
